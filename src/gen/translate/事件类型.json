@@ -1,0 +1,481 @@
+{
+    "en": "Event type",
+    "zh": "事件类型",
+    "attrs": [
+        {
+            "code": "01",
+            "en": "Marriage and family disputes",
+            "zh": "婚恋家庭纠纷"
+        },
+        {
+            "code": "0506",
+            "en": "Network infringement",
+            "zh": "网络侵权"
+        },
+        {
+            "code": "0101",
+            "en": "Love and marriage",
+            "zh": "恋爱及婚姻"
+        },
+        {
+            "code": "0507",
+            "en": "Labor damage",
+            "zh": "劳务损害"
+        },
+        {
+            "code": "0102",
+            "en": "Maintenance and care",
+            "zh": "抚养赡养监护"
+        },
+        {
+            "code": "0599",
+            "en": "Other",
+            "zh": "其他"
+        },
+        {
+            "code": "0103",
+            "en": "Separation and inheritance",
+            "zh": "分家与继承"
+        },
+        {
+            "code": "06",
+            "en": "Contracts and related disputes",
+            "zh": "合同及相关纠纷"
+        },
+        {
+            "code": "0199",
+            "en": "Other",
+            "zh": "其他"
+        },
+        {
+            "code": "0601",
+            "en": "Consumption and services",
+            "zh": "消费及服务"
+        },
+        {
+            "code": "02",
+            "en": "Neighbourhood dispute",
+            "zh": "邻里纠纷"
+        },
+        {
+            "code": "0602",
+            "en": "Real estate sale and lease",
+            "zh": "房产买卖租赁"
+        },
+        {
+            "code": "0201",
+            "en": "Water drainage, ventilation, lighting",
+            "zh": "用水排水通行通风采光"
+        },
+        {
+            "code": "0603",
+            "en": "Trade and trade",
+            "zh": "交易贸易"
+        },
+        {
+            "code": "0202",
+            "en": "Construction of adjacent land",
+            "zh": "相邻土地建筑利用"
+        },
+        {
+            "code": "0604",
+            "en": "Transportation and storage",
+            "zh": "运输仓储"
+        },
+        {
+            "code": "0203",
+            "en": "Prevention of adjacent pollution damage",
+            "zh": "相邻污染损害防止"
+        },
+        {
+            "code": "0699",
+            "en": "Other",
+            "zh": "其他"
+        },
+        {
+            "code": "0299",
+            "en": "Other",
+            "zh": "其他"
+        },
+        {
+            "code": "07",
+            "en": "Labor and personnel disputes",
+            "zh": "劳动人事争议"
+        },
+        {
+            "code": "03",
+            "en": "Dispute of personality right",
+            "zh": "人格权纠纷"
+        },
+        {
+            "code": "0701",
+            "en": "Labor contract",
+            "zh": "劳动合同、劳务派遣"
+        },
+        {
+            "code": "0301",
+            "en": "Name portraits",
+            "zh": "姓名肖像"
+        },
+        {
+            "code": "0702",
+            "en": "Social insurance",
+            "zh": "社会保险"
+        },
+        {
+            "code": "0302",
+            "en": "Reputation and privacy",
+            "zh": "名誉隐私"
+        },
+        {
+            "code": "0703",
+            "en": "Fringe benefits",
+            "zh": "福利待遇"
+        },
+        {
+            "code": "0303",
+            "en": "Physical health and personal freedom",
+            "zh": "身体健康及人身自由"
+        },
+        {
+            "code": "0704",
+            "en": "Personnel dispute",
+            "zh": "人事争议"
+        },
+        {
+            "code": "0399",
+            "en": "Other",
+            "zh": "其他"
+        },
+        {
+            "code": "0799",
+            "en": "Other",
+            "zh": "其他"
+        },
+        {
+            "code": "04",
+            "en": "Disputes concerning property rights",
+            "zh": "物权相关纠纷"
+        },
+        {
+            "code": "08",
+            "en": "Financial lending disputes",
+            "zh": "金融借贷纠纷"
+        },
+        {
+            "code": "0401",
+            "en": "Property Restitution and damage compensation",
+            "zh": "财物返还及损害赔偿"
+        },
+        {
+            "code": "0801",
+            "en": "Securities fund futures",
+            "zh": "证券基金期货"
+        },
+        {
+            "code": "0402",
+            "en": "Property and its management",
+            "zh": "物业及其管理"
+        },
+        {
+            "code": "0802",
+            "en": "Investment trust financing",
+            "zh": "投资信托理财"
+        },
+        {
+            "code": "0403",
+            "en": "Housing and other real estate registration",
+            "zh": "房屋等不动产登记"
+        },
+        {
+            "code": "0803",
+            "en": "Insurance",
+            "zh": "保险"
+        },
+        {
+            "code": "0499",
+            "en": "Other",
+            "zh": "其他"
+        },
+        {
+            "code": "0804",
+            "en": "Loan and guarantee",
+            "zh": "借贷及担保"
+        },
+        {
+            "code": "05",
+            "en": "Infringement related disputes",
+            "zh": "侵权相关纠纷"
+        },
+        {
+            "code": "0899",
+            "en": "Other",
+            "zh": "其他"
+        },
+        {
+            "code": "0501",
+            "en": "Educational services",
+            "zh": "教育机构"
+        },
+        {
+            "code": "09",
+            "en": "Disputes over land and resources ownership",
+            "zh": "土地及资源权属纠纷"
+        },
+        {
+            "code": "0502",
+            "en": "Medical damage",
+            "zh": "医疗损害"
+        },
+        {
+            "code": "0901",
+            "en": "Land contract management",
+            "zh": "土地承包经营"
+        },
+        {
+            "code": "0503",
+            "en": "Traffic accident",
+            "zh": "交通事故"
+        },
+        {
+            "code": "0902",
+            "en": "Homestead use",
+            "zh": "宅基地使用"
+        },
+        {
+            "code": "0504",
+            "en": "Environmental pollution",
+            "zh": "环境污染"
+        },
+        {
+            "code": "0903",
+            "en": "Mountain forest mineral",
+            "zh": "山林矿产"
+        },
+        {
+            "code": "0505",
+            "en": "product liability",
+            "zh": "产品责任"
+        },
+        {
+            "code": "0904",
+            "en": "Water water conservancy",
+            "zh": "水域水利"
+        },
+        {
+            "code": "0999",
+            "en": "Other",
+            "zh": "其他"
+        },
+        {
+            "code": "1301",
+            "en": "city management",
+            "zh": "城市管理"
+        },
+        {
+            "code": "10",
+            "en": "Other civil and commercial disputes",
+            "zh": "其他民商事纠纷"
+        },
+        {
+            "code": "1302",
+            "en": "Education style management",
+            "zh": "教育文体管理"
+        },
+        {
+            "code": "1001",
+            "en": "intellectual property right",
+            "zh": "知识产权"
+        },
+        {
+            "code": "1303",
+            "en": "Industrial and commercial tax administration",
+            "zh": "工商税务管理"
+        },
+        {
+            "code": "1002",
+            "en": "Company establishment",
+            "zh": "公司企业设立解敬"
+        },
+        {
+            "code": "1304",
+            "en": "Safety production management",
+            "zh": "安全生产管理"
+        },
+        {
+            "code": "1003",
+            "en": "Maritime maritime merchant",
+            "zh": "海事海商"
+        },
+        {
+            "code": "1305",
+            "en": "Traffic and transportation management",
+            "zh": "交通运输管理"
+        },
+        {
+            "code": "1004",
+            "en": "Competition dispute",
+            "zh": "竞争纠纷"
+        },
+        {
+            "code": "1306",
+            "en": "Maritime fishery management",
+            "zh": "海事渔事管理"
+        },
+        {
+            "code": "1005",
+            "en": "Bill and letter of credit",
+            "zh": "票据与信用证"
+        },
+        {
+            "code": "1307",
+            "en": "Family planning management",
+            "zh": "计划生育管理"
+        },
+        {
+            "code": "1006",
+            "en": "No cause management and unjust enrichment",
+            "zh": "无因管理与不当得利"
+        },
+        {
+            "code": "1399",
+            "en": "Other",
+            "zh": "其他"
+        },
+        {
+            "code": "1099",
+            "en": "Other",
+            "zh": "其他"
+        },
+        {
+            "code": "14",
+            "en": "Disputes involving law and litigation",
+            "zh": "涉法涉诉纠纷"
+        },
+        {
+            "code": "11",
+            "en": "Urban and rural construction and development disputes",
+            "zh": "城乡建设发展纠纷"
+        },
+        {
+            "code": "1401",
+            "en": "Involving public security",
+            "zh": "涉公安"
+        },
+        {
+            "code": "1101",
+            "en": "Housing levy on state owned land",
+            "zh": "国有土地上房屋征收"
+        },
+        {
+            "code": "1402",
+            "en": "Procuratorate",
+            "zh": "涉检察院"
+        },
+        {
+            "code": "1102",
+            "en": "Requisition of rural collective land",
+            "zh": "农村集体土地征用"
+        },
+        {
+            "code": "1403",
+            "en": "Court of law",
+            "zh": "涉法院"
+        },
+        {
+            "code": "1103",
+            "en": "Urban and rural planning and demolition",
+            "zh": "城乡规划及拆违"
+        },
+        {
+            "code": "1404",
+            "en": "Judicial administration organs concerned",
+            "zh": "涉司法行政机关"
+        },
+        {
+            "code": "1104",
+            "en": "Infrastructure and cityscape",
+            "zh": "基础设施建设及市政市容"
+        },
+        {
+            "code": "15",
+            "en": "Disputes involving discipline inspection involving organizations",
+            "zh": "涉组织涉纪检纠纷"
+        },
+        {
+            "code": "1105",
+            "en": "Resettlement",
+            "zh": "移民安置"
+        },
+        {
+            "code": "1501",
+            "en": "Organization and personnel",
+            "zh": "组织人事"
+        },
+        {
+            "code": "1199",
+            "en": "Other",
+            "zh": "其他"
+        },
+        {
+            "code": "1502",
+            "en": "work style of cadres",
+            "zh": "干部作风"
+        },
+        {
+            "code": "12",
+            "en": "Disputes involving civil administration",
+            "zh": "涉民政纠纷"
+        },
+        {
+            "code": "1599",
+            "en": "Other",
+            "zh": "其他"
+        },
+        {
+            "code": "1201",
+            "en": "Village (community) election and management",
+            "zh": "村(社区)选举和管理"
+        },
+        {
+            "code": "16",
+            "en": "Ethnic and religious disputes",
+            "zh": "涉民族宗教纠纷"
+        },
+        {
+            "code": "1202",
+            "en": "Preferential treatment",
+            "zh": "优抚救助"
+        },
+        {
+            "code": "1601",
+            "en": "Ethnic issues",
+            "zh": "涉民族问题"
+        },
+        {
+            "code": "1203",
+            "en": "Boundary of zoning",
+            "zh": "区划边界"
+        },
+        {
+            "code": "1602",
+            "en": "Religious issues",
+            "zh": "涉宗教问题"
+        },
+        {
+            "code": "1299",
+            "en": "Other",
+            "zh": "其他"
+        },
+        {
+            "code": "99",
+            "en": "Other",
+            "zh": "其他"
+        },
+        {
+            "code": "13",
+            "en": "Other administrative law enforcement disputes",
+            "zh": "其他行政执法纠纷"
+        }
+    ]
+}

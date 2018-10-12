@@ -1,0 +1,26 @@
+{
+    "en": "Effect evaluation",
+    "zh": "效果评估",
+    "attrs": [
+        {
+            "code": "01",
+            "en": "good",
+            "zh": "好"
+        },
+        {
+            "code": "03",
+            "en": "difference",
+            "zh": "差"
+        },
+        {
+            "code": "02",
+            "en": "preferably",
+            "zh": "较好"
+        },
+        {
+            "code": "04",
+            "en": "Poor",
+            "zh": "较差"
+        }
+    ]
+}

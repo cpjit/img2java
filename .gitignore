@@ -1,0 +1,9 @@
+/.settings
+/.idea
+/target
+.classpath
+.project
+.tern-project
+*.iml
+/bin
+/src/main/resources/application-local.yaml

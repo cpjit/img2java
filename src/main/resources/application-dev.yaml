@@ -1,0 +1,21 @@
+tencent:
+  cloud:
+    secret:
+      app-id:     #腾讯云appId
+      secret-id:  #腾讯云secretid
+      secret-key: #腾讯云secretkey
+
+baidu:
+  translate:
+    app-id:       #百度翻译appid
+    security-key: #百度翻译secretkey
+    auto-clear: true
+    ignore-error: true
+    source-directory: file:src/gen/ocr
+    target-directory: file:src/gen/translate
+ocr:
+  source-directory: file:src/gen/png
+  target-directory: file:src/gen/ocr
+code-gen:
+  source-directory: file:src/gen/translate
+  target-directory: file:src/gen/java
